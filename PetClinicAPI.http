@@ -1,0 +1,5 @@
+@PetClinicAPI_HostAddress = https://localhost:7122
+
+GET {{PetClinicAPI_HostAddress}}/api/pets/
+Accept: application/json
+
